@@ -8,7 +8,7 @@ Objective: In this project, I've combined computer vision techniques and deep le
 
 Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition.  Some examples of these keypoints are pictured below.
 
-<img src="https://video.udacity-data.com/topher/2018/April/5acd7ff3_screen-shot-2018-04-10-at-8.24.14-pm/screen-shot-2018-04-10-at-8.24.14-pm.png" alt="img" style="zoom:50%;" />
+<img src="https://video.udacity-data.com/topher/2018/April/5acd7ff3_screen-shot-2018-04-10-at-8.24.14-pm/screen-shot-2018-04-10-at-8.24.14-pm.png" alt="img" width="400" />
 
 
 
